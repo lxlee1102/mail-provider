@@ -6,7 +6,7 @@ cd $WORKSPACE
 mkdir -p var
 
 module=mail-provider
-app=falcon-$module
+app=falcon-mail
 conf=cfg.json
 localconf=cfg.local.json
 pidfile=var/app.pid

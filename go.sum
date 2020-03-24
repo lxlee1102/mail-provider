@@ -1,0 +1,8 @@
+github.com/peng19940915/smtp v0.0.0-20190128090631-4aec805f0d1e h1:NbckGSnC+AVeLzMdaDW8HetA5p5sddgH5q5O6c+mCBI=
+github.com/peng19940915/smtp v0.0.0-20190128090631-4aec805f0d1e/go.mod h1:tX9ubW4gEveHfjdkgux5SVKx/Ny7RqQHJkbeng1Hh8g=
+github.com/toolkits/file v0.0.0-20160325033739-a5b3c5147e07 h1:d/VUIMNTk65Xz69htmRPNfjypq2uNRqVsymcXQu6kKk=
+github.com/toolkits/file v0.0.0-20160325033739-a5b3c5147e07/go.mod h1:FbXpUxsx5in7z/OrWFDdhYetOy3/VGIJsVHN9G7RUPA=
+github.com/toolkits/smtp v0.0.0-20190110072832-af41f29c3d89 h1:I8n/dw+TLkdCAjy9eN+W/sw6RDY5tU7wHLhotyPdUGY=
+github.com/toolkits/smtp v0.0.0-20190110072832-af41f29c3d89/go.mod h1:q60KFqSV+4kASjwvLqETWCNOthfhRo0+mctDp48q6m0=
+github.com/toolkits/web v0.0.0-20160312232617-dc0f03327e1d h1:szNbT/3P4bFFGGgCnlXSiOY6QvdNixikS4+xwT01x/U=
+github.com/toolkits/web v0.0.0-20160312232617-dc0f03327e1d/go.mod h1:QuDtPSTo0WJncz+noVb8+BQDpRL8XZVx1fxI1Zu41ok=
